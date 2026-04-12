@@ -1,4 +1,12 @@
 Event,Date,Location,WeightClass,Fighter1,Fighter2,Winner,Method,MethodDetail,Round,Time,Title
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Royce Gracie,Gerard Gordeau,Royce Gracie,SUB,Rear Naked Choke,1,1:44,True
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Jason DeLucia,Trent Jenkins,Jason DeLucia,SUB,Rear Naked Choke,1,0:52,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Royce Gracie,Ken Shamrock,Royce Gracie,SUB,Rear Naked Choke,1,0:57,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Gerard Gordeau,Kevin Rosier,Gerard Gordeau,KO/TKO,Corner Stoppage,1,0:59,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Ken Shamrock,Patrick Smith,Ken Shamrock,SUB,Heel Hook,1,1:49,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Royce Gracie,Art Jimmerson,Royce Gracie,SUB,Pressure,1,2:18,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Kevin Rosier,Zane Frazier,Kevin Rosier,KO/TKO,Punches,1,4:20,False
+UFC 1: The Beginning,"November 12, 1993","Denver, Colorado, USA",Open Weight,Gerard Gordeau,Teila Tuli,Gerard Gordeau,KO/TKO,Kick,1,0:26,False
 UFC 2: No Way Out,"March 11, 1994","Denver, Colorado, USA",Open Weight,Royce Gracie,Patrick Smith,Royce Gracie,KO/TKO,Punches,1,1:17,True
 UFC 2: No Way Out,"March 11, 1994","Denver, Colorado, USA",Open Weight,Royce Gracie,Remco Pardoel,Royce Gracie,SUB,Gi Choke,1,1:31,False
 UFC 2: No Way Out,"March 11, 1994","Denver, Colorado, USA",Open Weight,Patrick Smith,Johnny Rhodes,Patrick Smith,SUB,Guillotine Choke,1,1:07,False
@@ -8624,15 +8632,15 @@ UFC Fight Night: Moicano vs. Duncan,"April 04, 2026","Las Vegas, Nevada, USA",Wo
 UFC Fight Night: Moicano vs. Duncan,"April 04, 2026","Las Vegas, Nevada, USA",Middleweight,Tresean Gore,Azamat Bekoev,Tresean Gore,SUB,Guillotine Choke,3,3:27,False
 UFC Fight Night: Moicano vs. Duncan,"April 04, 2026","Las Vegas, Nevada, USA",Women's Flyweight,Dione Barbosa,Melissa Gatto,Dione Barbosa,M-DEC,,3,5:00,False
 UFC Fight Night: Moicano vs. Duncan,"April 04, 2026","Las Vegas, Nevada, USA",Lightweight,Kai Kamaka III,Dakota Hope,Kai Kamaka III,S-DEC,,3,5:00,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Jiri Prochazka,Carlos Ulberg,Carlos Ulberg,,,,,True
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Azamat Murzakanov,Paulo Costa,Paulo Costa,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Heavyweight,Curtis Blaydes,Josh Hokit,Josh Hokit,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Dominick Reyes,Johnny Walker,Johnny Walker,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Featherweight,Cub Swanson,Nate Landwehr,Nate Landwehr,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Featherweight,Patricio Pitbull,Aaron Pico,Aaron Pico,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Welterweight,Kevin Holland,Randy Brown,Randy Brown,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Lightweight,Mateusz Gamrot,Esteban Ribovics,Esteban Ribovics,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Women's Strawweight,Tatiana Suarez,Loopy Godinez,Loopy Godinez,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Lightweight,Chris Padilla,MarQuel Mederos,MarQuel Mederos,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Middleweight,Kelvin Gastelum,Vicente Luque,Vicente Luque,,,,,False
-UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Welterweight,Charles Radtke,Francisco Prado,Francisco Prado,,,,,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Carlos Ulberg,Jiri Prochazka,Carlos Ulberg,KO/TKO,Punch,1,3:45,True
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Paulo Costa,Azamat Murzakanov,Paulo Costa,KO/TKO,Kick,3,1:23,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Heavyweight,Josh Hokit,Curtis Blaydes,Josh Hokit,U-DEC,,3,5:00,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Light Heavyweight,Dominick Reyes,Johnny Walker,Dominick Reyes,S-DEC,,3,5:00,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Featherweight,Cub Swanson,Nate Landwehr,Cub Swanson,KO/TKO,Punch,1,4:06,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Featherweight,Aaron Pico,Patricio Pitbull,Aaron Pico,U-DEC,,3,5:00,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Welterweight,Kevin Holland,Randy Brown,Kevin Holland,U-DEC,,3,5:00,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Lightweight,Mateusz Gamrot,Esteban Ribovics,Mateusz Gamrot,SUB,Arm Triangle,2,4:19,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Women's Strawweight,Tatiana Suarez,Loopy Godinez,Tatiana Suarez,SUB,Rear Naked Choke,2,2:29,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Lightweight,Chris Padilla,MarQuel Mederos,Draw/NC,M-DEC,,3,5:00,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Middleweight,Vicente Luque,Kelvin Gastelum,Vicente Luque,SUB,Anaconda Choke,1,4:08,False
+UFC 327: Prochazka vs. Ulberg,"April 11, 2026","Miami, Florida, USA",Welterweight,Charles Radtke,Francisco Prado,Charles Radtke,U-DEC,,3,5:00,False
